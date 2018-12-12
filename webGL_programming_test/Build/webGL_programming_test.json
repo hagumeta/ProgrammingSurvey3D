@@ -1,0 +1,13 @@
+{
+"companyName": "明石高専_佐村研究室",
+"productName": "Visuarable Programming Test 3D",
+"dataUrl": "webGL_programming_test.data.unityweb",
+"wasmCodeUrl": "webGL_programming_test.wasm.code.unityweb",
+"wasmFrameworkUrl": "webGL_programming_test.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080",
+"cacheControl": {"default": "must-revalidate"}
+}
